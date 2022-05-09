@@ -1,0 +1,19 @@
+{
+  "name": "web-scrap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "puppeteer": "^13.5.2",
+    "puppeteer-core": "^13.5.2",
+    "read-excel-file": "^5.2.28",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
